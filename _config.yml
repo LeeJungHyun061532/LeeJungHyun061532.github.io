@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "LeeJungHyun061532.github.io"
+url: "LeeJungHyun061532.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
