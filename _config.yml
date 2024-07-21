@@ -83,3 +83,5 @@ plugins: [jekyll-paginate]
 exclude:
   - Gemfile
   - Gemfile.lock
+
+[![HitCount](https://hits.dwyl.com/{username}/{project}.svg?style=flat-square)](http://hits.dwyl.com/{username}/{project})
